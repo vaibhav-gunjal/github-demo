@@ -1,4 +1,4 @@
 # github-demo
 this is my first github repo
 <br>
-author - vaibhav gunjal
+<h2> Author - vaibhav gunjal </h2>
